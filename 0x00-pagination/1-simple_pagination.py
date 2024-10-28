@@ -3,7 +3,7 @@
 0-simple_helper_function module
 """
 import csv
-from typing import Tuple
+from typing import Tuple, List
 
 
 def index_range(page: int, page_size: int) -> Tuple[int, int]:
