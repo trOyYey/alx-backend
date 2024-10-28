@@ -2,6 +2,7 @@
 """
 0-simple_helper_function module
 """
+import csv
 from typing import Tuple
 
 
